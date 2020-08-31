@@ -1,4 +1,4 @@
-# website-blocker
+# Website blocker
 A simple script to block websites for a particular period of time in a day.
 
 # How to run
